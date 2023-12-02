@@ -194,3 +194,17 @@ button{
   .left-bottom{
     color: white;
   }
+
+  .left-bottom,
+  .footer{
+    font-size: 18px;
+  }
+
+  .footer{
+    background: #1f2937;
+    padding: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
